@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636048729 source:c:\temp\ws-cb\exerciciosc++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<climits>
+
